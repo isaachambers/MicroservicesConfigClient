@@ -1,0 +1,3 @@
+Load the profile, config url and authentication from bootstrap files..
+
+Accessing a config server with basic authentication has to be done by specifying 
